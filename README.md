@@ -1,7 +1,7 @@
 
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Made completely without CSS Grid of Flexbox.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Overview
 
@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-wo-css-grid-or-flexbox-mAqXGm7GLD)
+- [Solution URL]()
 - [Live Site URL](https://lawsoflloyd.github.io/qr-code-component/)
 
 ## Author

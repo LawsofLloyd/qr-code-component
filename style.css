@@ -20,6 +20,10 @@ body {
     background-color: var(--light-gray);
     font-size: var(--font-size);
     font-family: var(--font-family);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h2 {
@@ -36,7 +40,6 @@ p {
 .card {
     background-color: var(--white);
     max-width: 290px;
-    margin: 250px auto;
     padding: 20px;
     text-align: center;
     border-radius: 20px;
@@ -47,12 +50,6 @@ img {
     width: 250px;
     height: 250px;
     border-radius: 10px;
-}
-
-@media(max-height: 675px){
-    .card {
-        margin: auto;
-    }
 }
 
     
