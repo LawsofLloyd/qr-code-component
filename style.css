@@ -49,4 +49,10 @@ img {
     border-radius: 10px;
 }
 
+@media(max-height: 675px){
+    .card {
+        margin: auto;
+    }
+}
+
     

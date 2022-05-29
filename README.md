@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL](https://github.com/LawsofLloyd/qr-code-component)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-wo-css-grid-or-flexbox-mAqXGm7GLD)
 - [Live Site URL](https://lawsoflloyd.github.io/qr-code-component/)
 
 ## Author
